@@ -46,11 +46,7 @@ class Kontak extends REST_Controller {
         $this->response($kontak, 200);
     }```
 
-2.	Cek penggunaan get dengan postman dengan cara:
-![Capture1](https://user-images.githubusercontent.com/55653499/76197497-d62c7480-621e-11ea-9680-5ea32d0ce62c.PNG)
-cek function get dengan memanggil id:
-
-![Capture](https://user-images.githubusercontent.com/55653499/76197532-e6dcea80-621e-11ea-8ddd-99033e5e913b.PNG)
+2.	Cek penggunaan get dengan postman
 
 
   
